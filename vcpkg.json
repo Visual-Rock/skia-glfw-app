@@ -1,0 +1,17 @@
+{
+  "name": "skia-glfw-app",
+  "version-string": "1.0.0",
+  "dependencies": [
+    {
+      "name": "glad",
+      "platform": "!emscripten"
+    },
+    {
+      "name": "glfw3",
+      "platform": "!emscripten"
+    },
+    {
+      "name": "skia"
+    }
+  ]
+}
